@@ -1,4 +1,4 @@
 # Nickname generator
 Nickname generator using Flutter
 
-![](https://i.imgur.com/6Hizyz1.jpg | height=400)
+![](https://i.imgur.com/6Hizyz1.jpg)
